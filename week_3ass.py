@@ -3,6 +3,10 @@
 
 scores = [72, 45, 90, 61, 38]
 
+# Counters and total
+passed = 0
+failed = 0
+total = 0
 
 # Go through every score
 for score in scores:
